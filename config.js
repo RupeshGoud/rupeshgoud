@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Rupesh Goud',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -18,28 +18,28 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Rupesh Goud',
     photo: '/photo.jpg',
-    bio: 'Programmer, Cricketer.',
+    bio: 'Data Scientist at SignalX.ai - Love to learn, solve and build stuff.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'iamrupeshgoud@gmail.com',
+      facebook: '',
+      telegram: 'RupeshGoud',
+      twitter: 'imRupeshGoud',
+      github: 'RupeshGoud',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'rupeshgoud',
+      instagram: '',
       line: '',
-      gitlab: '',
+      gitlab: 'https://gitlab.com/RupeshGoud',
       weibo: '',
       codepen: ''
     }
